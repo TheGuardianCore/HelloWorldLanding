@@ -98,3 +98,45 @@ footer {
   font-size: 0.9rem;
   color: #333;
 }
+/* =========================
+   Content spacing & rhythm
+   ========================= */
+
+/* Section spacing */
+main section {
+  margin-bottom: 3rem;
+}
+
+/* Headings */
+h2 {
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 1rem;
+}
+
+/* Lists */
+ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Notes / callouts */
+.note {
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9em;
+  opacity: 0.85;
+}
