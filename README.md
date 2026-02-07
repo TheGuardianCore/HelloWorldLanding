@@ -11,7 +11,7 @@ The site serves as a lightweight, security-first landing page introducing Guardi
 
 Once deployed, the site is available at:
 
-- **https://guardiancore.io**  
+- **https://guardiancore.ca**  
   *(or your GitHub Pages URL during development)*
 
 ---
