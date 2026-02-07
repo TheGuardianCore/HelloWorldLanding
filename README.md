@@ -45,6 +45,13 @@ Please see [SECURITY.md](SECURITY.md) for responsible vulnerability disclosure g
 
 ---
 
+📄 License
+
+Content © Guardian Core.
+All rights reserved unless otherwise stated.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
